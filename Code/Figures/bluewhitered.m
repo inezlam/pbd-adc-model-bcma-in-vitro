@@ -1,3 +1,5 @@
+% Modified from bluewhitered (https://www.mathworks.com/matlabcentral/fileexchange/4058-bluewhitered)function by Nathan Childress from MATLAB Central File Exchange.
+
 function newmap = bluewhitered(m)
 %BLUEWHITERED   Blue, white, and red color map.
 %   BLUEWHITERED(M) returns an M-by-3 matrix containing a blue to white
@@ -27,7 +29,6 @@ function newmap = bluewhitered(m)
 %
 %   See also HSV, HOT, COOL, BONE, COPPER, PINK, FLAG, 
 %   COLORMAP, RGBPLOT.
-
 
 if nargin < 1
    m = size(get(gcf,'colormap'),1);
