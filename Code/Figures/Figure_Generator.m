@@ -2,7 +2,7 @@
 clear all; clc;
 
 %% Select figure number to plot %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-FigureNumber = 9; % FigureNumber can be 2, 3, 4, 5, 6, 7, 8, or 9
+FigureNumber = 2; % FigureNumber can be 2, 3, 4, 5, 6, 7, 8, or 9
 % Select which subfigure to plot by using "yes" or "no" below as needed
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
